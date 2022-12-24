@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>student/teacher on LS | Papermod</title>
+    <link>https://alchemist6174.github.io/hugo/tags/student/teacher/</link>
+    <description>Recent content in student/teacher on LS | Papermod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://alchemist6174.github.io/hugo/tags/student/teacher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yolonda Gets Tutored, Part 3</title>
+      <link>https://alchemist6174.github.io/hugo/posts/edtaylor1401/</link>
+      <pubDate>Sat, 14 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://alchemist6174.github.io/hugo/posts/edtaylor1401/</guid>
+      <description>Yolonda stays the night</description>
+    </item>
+    
+    <item>
+      <title>Yolonda Gets Tutored, Part 2</title>
+      <link>https://alchemist6174.github.io/hugo/posts/edtaylor1388/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://alchemist6174.github.io/hugo/posts/edtaylor1388/</guid>
+      <description>Yolo goes home with her teacher</description>
+    </item>
+    
+  </channel>
+</rss>
